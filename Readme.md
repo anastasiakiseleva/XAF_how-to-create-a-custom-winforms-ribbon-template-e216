@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainForm.cs](./CS/HowToCustomizeTemplate.Win/CustomTemplates/MainForm.cs) (VB: [MainForm.vb](./VB/HowToCustomizeTemplate.Win/CustomTemplates/MainForm.vb))
+* [Program.cs](./CS/HowToCustomizeTemplate.Win/Program.cs) (VB: [Program.vb](./VB/HowToCustomizeTemplate.Win/Program.vb))
+<!-- default file list end -->
 # How to: Create a Custom WinForms Ribbon Template
 
 
